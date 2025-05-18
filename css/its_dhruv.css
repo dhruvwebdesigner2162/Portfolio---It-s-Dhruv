@@ -90,3 +90,36 @@ body {
         filter: none;
     }
 }
+
+.project_ip {
+    background-image: url(../images/project\ background\ image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ob-c {
+    object-fit: contain;
+}
+
+.border-custom-card {
+    border: 1px solid rgb(66, 66, 66);
+}
+
+.contact_ip {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.226)), url(../images/contact\ background\ image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+::placeholder {
+    color: white !important;
+}
+
+.footer_ip {
+    background-image: url(../images/footer\ background\ image.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
