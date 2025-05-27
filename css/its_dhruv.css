@@ -62,7 +62,7 @@ body {
 }
 
 .skills_section_ip {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/skills\ background\ image.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/skills\ background\ image.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -92,7 +92,7 @@ body {
 }
 
 .project_ip {
-    background-image: url(../images/project\ background\ image.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/project\ background\ image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -107,7 +107,7 @@ body {
 }
 
 .contact_ip {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.226)), url(../images/contact\ background\ image.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/contact\ background\ image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
