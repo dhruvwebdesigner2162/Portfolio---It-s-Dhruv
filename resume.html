@@ -17,6 +17,12 @@
     <iframe src="resume/Resume.pdf" style="width: 100%;height: 100vh;" frameborder="0"></iframe>
 
     <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        import { neon } from '@netlify/neon';
+        const sql = neon(); // automatically uses env NETLIFY_DATABASE_URL
+        const [post] = await sql`SELECT * FROM posts WHERE id = ${postId}`;
+    </script>
 </body>
 
 </html>
