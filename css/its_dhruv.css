@@ -130,3 +130,9 @@ body {
     width: 100% !important;
     z-index: 1;
 }
+
+.bg-blur {
+    backdrop-filter: blur(10px);
+    background-color: rgba(192, 192, 192, 0.055) !important;
+    padding-block: 20px !important;
+}
