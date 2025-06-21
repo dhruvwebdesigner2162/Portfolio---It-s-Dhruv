@@ -12,6 +12,7 @@ body {
 
 .header {
     backdrop-filter: blur(10px);
+    background-color: rgba(51, 51, 51, 0.048);
     border-bottom: 1px solid rgb(66, 66, 66);
 }
 
