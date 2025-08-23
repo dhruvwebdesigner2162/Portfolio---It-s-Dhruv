@@ -137,3 +137,12 @@ body {
     background-color: rgba(192, 192, 192, 0.055) !important;
     padding-block: 20px !important;
 }
+
+.bg-custom {
+    background-color: #0F112E !important;
+    color: #6B84F5 !important;
+}
+
+.border-custom {
+    border: 1px solid #162181;
+}
