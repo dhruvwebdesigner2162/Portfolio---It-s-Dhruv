@@ -105,6 +105,8 @@ body {
 
 .border-custom-card {
     border: 1px solid rgb(66, 66, 66);
+    box-shadow: inset 0px 0px 15px 1px rgb(53, 53, 53);
+    backdrop-filter: blur(10px);
 }
 
 .contact_ip {
