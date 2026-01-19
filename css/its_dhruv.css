@@ -106,6 +106,7 @@ body {
 .border-custom-card {
     border: 1px solid rgb(66, 66, 66);
     box-shadow: inset 0px 0px 15px 1px rgb(53, 53, 53);
+    /* box-shadow: inset 0px 0px 15px 1px rgb(31, 54, 54) !important; */
     backdrop-filter: blur(10px);
 }
 

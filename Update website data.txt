@@ -1,0 +1,11 @@
+Portfolio Website Data (Update Version):-
+
+Add Details in the Website:-
+Title:- Bench Sales Recruiter
+
+Data:- 
+-> Which Technologes Apply for the marketing,
+-> How many collect interviews,
+-> How many archieves PO's,
+-> Create some content for the description, 
+-> Create a table for a showing a some datas just like a Positions, interview, date, Company Name, Response.
